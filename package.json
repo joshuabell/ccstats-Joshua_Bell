@@ -1,0 +1,40 @@
+{
+  "name": "ccstats",
+  "version": "2.0.0",
+  "description": "Personal Claude Code usage analytics dashboard - GitHub Pages edition",
+  "scripts": {
+    "setup": "node setup.js",
+    "stats": "node stats.js",
+    "push": "git add data/stats.json data/days.json data/machines/ && git commit -m 'Update usage stats' && git pull --rebase && git push",
+    "lint": "npx @biomejs/biome check .",
+    "test": "node --test 'test/**/*.test.js'"
+  },
+  "keywords": [
+    "claude",
+    "usage",
+    "analytics",
+    "stats",
+    "dashboard",
+    "github-pages"
+  ],
+  "author": "Joshua Bell",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuabell/ccstats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshuabell/ccstats/issues"
+  },
+  "homepage": "https://github.com/joshuabell/ccstats#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "ccusage": "^15.5.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.12",
+    "playwright": "^1.59.1"
+  }
+}
