@@ -162,12 +162,13 @@ header {
 }
 
 .ascii-logo {
-  font-size: 0.5rem;
+  font-size: clamp(3px, 1.3vw, 0.5rem);
   line-height: 1.2;
   color: var(--color-brand-primary);
   margin: 0;
   white-space: pre;
   font-family: var(--font-family-mono);
+  overflow: hidden;
 }
 
 .header-subtitle {
@@ -662,10 +663,6 @@ footer {
     margin-bottom: var(--space-8);
   }
 
-  .ascii-logo {
-    font-size: 0.3rem;
-  }
-
   .header-subtitle {
     font-size: var(--text-label);
   }
@@ -742,10 +739,6 @@ footer {
 }
 
 @media (max-width: 400px) {
-  .ascii-logo {
-    font-size: 0.22rem;
-  }
-
   .stats-grid {
     grid-template-columns: 1fr;
   }
