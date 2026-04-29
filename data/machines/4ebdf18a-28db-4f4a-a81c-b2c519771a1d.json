@@ -1,7 +1,7 @@
 {
   "machineId": "4ebdf18a-28db-4f4a-a81c-b2c519771a1d",
   "machineName": "machine-2",
-  "lastUpdated": "2026-04-17T18:01:09.042Z",
+  "lastUpdated": "2026-04-29T21:31:57.288Z",
   "days": [
     {
       "date": "2026-02-04",
@@ -221,27 +221,27 @@
     },
     {
       "date": "2026-03-18",
-      "totalCost": 78.31711419999996,
-      "totalTokens": 95334122,
-      "inputTokens": 152917,
-      "outputTokens": 224619,
-      "cacheTokens": 6907548
+      "totalCost": 17.94397800000001,
+      "totalTokens": 24373067,
+      "inputTokens": 68150,
+      "outputTokens": 138198,
+      "cacheTokens": 2575118
     },
     {
       "date": "2026-03-19",
-      "totalCost": 20.44798200000001,
-      "totalTokens": 18064338,
-      "inputTokens": 19626,
-      "outputTokens": 51219,
-      "cacheTokens": 2334490
+      "totalCost": 2.3153603999999994,
+      "totalTokens": 3397855,
+      "inputTokens": 16350,
+      "outputTokens": 21511,
+      "cacheTokens": 476104
     },
     {
       "date": "2026-03-20",
-      "totalCost": 23.721486249999998,
-      "totalTokens": 25749690,
-      "inputTokens": 17219,
-      "outputTokens": 72995,
-      "cacheTokens": 2086279
+      "totalCost": 22.49204085,
+      "totalTokens": 24684958,
+      "inputTokens": 15928,
+      "outputTokens": 71546,
+      "cacheTokens": 1892843
     },
     {
       "date": "2026-03-23",
@@ -405,11 +405,67 @@
     },
     {
       "date": "2026-04-17",
-      "totalCost": 2.4553118500000006,
-      "totalTokens": 2999374,
-      "inputTokens": 1431,
-      "outputTokens": 9345,
-      "cacheTokens": 293011
+      "totalCost": 27.402044800000017,
+      "totalTokens": 32354678,
+      "inputTokens": 26706,
+      "outputTokens": 62756,
+      "cacheTokens": 3371988
+    },
+    {
+      "date": "2026-04-20",
+      "totalCost": 8.69752885,
+      "totalTokens": 10393077,
+      "inputTokens": 3848,
+      "outputTokens": 32789,
+      "cacheTokens": 780635
+    },
+    {
+      "date": "2026-04-21",
+      "totalCost": 84.33338989999989,
+      "totalTokens": 92216906,
+      "inputTokens": 45170,
+      "outputTokens": 768869,
+      "cacheTokens": 5227708
+    },
+    {
+      "date": "2026-04-22",
+      "totalCost": 44.78369094999997,
+      "totalTokens": 52859178,
+      "inputTokens": 16469,
+      "outputTokens": 449798,
+      "cacheTokens": 2885335
+    },
+    {
+      "date": "2026-04-23",
+      "totalCost": 42.974277299999976,
+      "totalTokens": 46827431,
+      "inputTokens": 23003,
+      "outputTokens": 459403,
+      "cacheTokens": 3566840
+    },
+    {
+      "date": "2026-04-24",
+      "totalCost": 97.65095745000008,
+      "totalTokens": 95785684,
+      "inputTokens": 41523,
+      "outputTokens": 1037442,
+      "cacheTokens": 6873833
+    },
+    {
+      "date": "2026-04-27",
+      "totalCost": 56.64361075,
+      "totalTokens": 57946667,
+      "inputTokens": 16548,
+      "outputTokens": 605930,
+      "cacheTokens": 4060579
+    },
+    {
+      "date": "2026-04-29",
+      "totalCost": 4.9888644499999995,
+      "totalTokens": 3539558,
+      "inputTokens": 335,
+      "outputTokens": 82666,
+      "cacheTokens": 513289
     }
   ]
 }
