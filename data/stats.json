@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 30285.50873855002,
-    "totalTokens": 52873977899,
-    "averageCost": 119.70556813656134,
-    "averageTokens": 208988054.9367589,
-    "dayCount": 253
+    "totalCost": 32093.370838600025,
+    "totalTokens": 55015111469,
+    "averageCost": 121.10705976830198,
+    "averageTokens": 207604194.2226415,
+    "dayCount": 265
   },
   "yearly": {
-    "totalCost": 22678.92554955001,
-    "totalTokens": 41149873502,
-    "averageCost": 238.72553210052644,
-    "averageTokens": 433156563.1789474,
-    "dayCount": 95
+    "totalCost": 24486.787649600017,
+    "totalTokens": 43291007072,
+    "averageCost": 228.84848270654223,
+    "averageTokens": 404588851.1401869,
+    "dayCount": 107
   },
   "monthly": {
-    "totalCost": 9427.3895292,
-    "totalTokens": 17461588719,
-    "averageCost": 589.211845575,
-    "averageTokens": 1091349294.9375,
-    "dayCount": 16
+    "totalCost": 11699.929550299998,
+    "totalTokens": 20335003204,
+    "averageCost": 417.8546267964285,
+    "averageTokens": 726250114.4285715,
+    "dayCount": 28
   },
   "weekly": {
-    "totalCost": 478.2173915999996,
-    "totalTokens": 620579245,
-    "averageCost": 95.64347831999991,
-    "averageTokens": 124115849,
-    "dayCount": 5
+    "totalCost": 235.42540280000003,
+    "totalTokens": 309570318,
+    "averageCost": 78.47513426666667,
+    "averageTokens": 103190106,
+    "dayCount": 3
   },
   "daily": {
-    "totalCost": 109.33338829285704,
-    "totalTokens": 142669305.42857143
+    "totalCost": 87.61729570000001,
+    "totalTokens": 113941291
   },
   "highest": {
     "day": {
@@ -42,13 +42,13 @@
       "totalTokens": 23236498638
     },
     "month": {
-      "totalCost": 9911.780563250011,
-      "totalTokens": 18713533848
+      "totalCost": 11699.929550299998,
+      "totalTokens": 20335003204
     }
   },
   "streaks": {
-    "currentStreak": 34,
-    "longestStreak": 34
+    "currentStreak": 46,
+    "longestStreak": 46
   },
-  "lastUpdated": "2026-04-17T18:01:09.044Z"
+  "lastUpdated": "2026-04-29T21:25:24.856Z"
 }
