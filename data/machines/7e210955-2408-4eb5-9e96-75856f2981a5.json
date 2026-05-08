@@ -1,0 +1,15 @@
+{
+  "machineId": "7e210955-2408-4eb5-9e96-75856f2981a5",
+  "machineName": "cloud",
+  "lastUpdated": "2026-05-08T00:36:07.573Z",
+  "days": [
+    {
+      "date": "2026-05-07",
+      "totalCost": 0.0958524,
+      "totalTokens": 113474,
+      "inputTokens": 27,
+      "outputTokens": 706,
+      "cacheTokens": 18578
+    }
+  ]
+}
