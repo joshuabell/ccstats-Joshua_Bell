@@ -1,7 +1,7 @@
 {
   "machineId": "e2fa8d9e-62fd-4b84-8492-81f9cf6b23c8",
   "machineName": "machine-1",
-  "lastUpdated": "2026-04-29T21:25:24.853Z",
+  "lastUpdated": "2026-05-08T00:24:21.038Z",
   "days": [
     {
       "date": "2025-06-06",
@@ -1901,11 +1901,11 @@
     },
     {
       "date": "2026-04-07",
-      "totalCost": 292.8717553000004,
-      "totalTokens": 467357534,
-      "inputTokens": 610234,
-      "outputTokens": 1177066,
-      "cacheTokens": 23175736
+      "totalCost": 185.3533777000004,
+      "totalTokens": 318253606,
+      "inputTokens": 145624,
+      "outputTokens": 614460,
+      "cacheTokens": 14906308
     },
     {
       "date": "2026-04-08",
@@ -2077,11 +2077,75 @@
     },
     {
       "date": "2026-04-29",
-      "totalCost": 68.94739700000001,
-      "totalTokens": 97913230,
-      "inputTokens": 10810,
-      "outputTokens": 379327,
-      "cacheTokens": 3067214
+      "totalCost": 197.31536085000005,
+      "totalTokens": 260432837,
+      "inputTokens": 27371,
+      "outputTokens": 1373051,
+      "cacheTokens": 8830891
+    },
+    {
+      "date": "2026-04-30",
+      "totalCost": 244.95379194999973,
+      "totalTokens": 310050859,
+      "inputTokens": 35852,
+      "outputTokens": 1605318,
+      "cacheTokens": 11222225
+    },
+    {
+      "date": "2026-05-01",
+      "totalCost": 90.70054944999991,
+      "totalTokens": 107455806,
+      "inputTokens": 27320,
+      "outputTokens": 701977,
+      "cacheTokens": 5163893
+    },
+    {
+      "date": "2026-05-02",
+      "totalCost": 11.648750899999996,
+      "totalTokens": 7189555,
+      "inputTokens": 18721,
+      "outputTokens": 180116,
+      "cacheTokens": 1122574
+    },
+    {
+      "date": "2026-05-03",
+      "totalCost": 121.64249464999975,
+      "totalTokens": 137654586,
+      "inputTokens": 67883,
+      "outputTokens": 833314,
+      "cacheTokens": 7411605
+    },
+    {
+      "date": "2026-05-04",
+      "totalCost": 68.16314444999998,
+      "totalTokens": 81259814,
+      "inputTokens": 48223,
+      "outputTokens": 588088,
+      "cacheTokens": 3815209
+    },
+    {
+      "date": "2026-05-05",
+      "totalCost": 150.75478665000003,
+      "totalTokens": 214130387,
+      "inputTokens": 36263,
+      "outputTokens": 853673,
+      "cacheTokens": 5564665
+    },
+    {
+      "date": "2026-05-06",
+      "totalCost": 276.2007638999998,
+      "totalTokens": 374572604,
+      "inputTokens": 60646,
+      "outputTokens": 1942145,
+      "cacheTokens": 13495640
+    },
+    {
+      "date": "2026-05-07",
+      "totalCost": 182.09919574999992,
+      "totalTokens": 236015543,
+      "inputTokens": 86891,
+      "outputTokens": 1310727,
+      "cacheTokens": 8943589
     }
   ]
 }

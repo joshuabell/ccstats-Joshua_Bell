@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 33141.71801735003,
-    "totalTokens": 56226701717,
-    "averageCost": 122.29416242564587,
-    "averageTokens": 207478604.12177122,
-    "dayCount": 271
+    "totalCost": 33260.38390255003,
+    "totalTokens": 56496856302,
+    "averageCost": 121.83290806794882,
+    "averageTokens": 206948191.58241758,
+    "dayCount": 273
   },
   "yearly": {
-    "totalCost": 25535.134828350016,
-    "totalTokens": 44502597320,
-    "averageCost": 225.97464449867272,
-    "averageTokens": 393828294.86725664,
-    "dayCount": 113
+    "totalCost": 25653.80071355002,
+    "totalTokens": 44772751905,
+    "averageCost": 223.07652794391322,
+    "averageTokens": 389328277.4347826,
+    "dayCount": 115
   },
   "monthly": {
-    "totalCost": 447.33349854999966,
-    "totalTokens": 540526888,
-    "averageCost": 111.83337463749992,
-    "averageTokens": 135131722,
-    "dayCount": 4
+    "totalCost": 810.5091362999996,
+    "totalTokens": 1050822489,
+    "averageCost": 135.08485604999993,
+    "averageTokens": 175137081.5,
+    "dayCount": 6
   },
   "weekly": {
-    "totalCost": 447.33349854999966,
-    "totalTokens": 540526888,
-    "averageCost": 111.83337463749992,
-    "averageTokens": 135131722,
+    "totalCost": 677.2178907499997,
+    "totalTokens": 905978348,
+    "averageCost": 169.30447268749992,
+    "averageTokens": 226494587,
     "dayCount": 4
   },
   "daily": {
-    "totalCost": 120.66977397857143,
-    "totalTokens": 145265994.42857143
+    "totalCost": 128.7442408214285,
+    "totalTokens": 165468327.85714287
   },
   "highest": {
     "day": {
@@ -42,13 +42,13 @@
       "totalTokens": 23236498638
     },
     "month": {
-      "totalCost": 12380.6784337,
-      "totalTokens": 21092758834
+      "totalCost": 12056.433477949997,
+      "totalTokens": 20765925548
     }
   },
   "streaks": {
-    "currentStreak": 4,
-    "longestStreak": 48
+    "currentStreak": 54,
+    "longestStreak": 54
   },
-  "lastUpdated": "2026-05-08T00:21:52.269Z"
+  "lastUpdated": "2026-05-08T00:24:21.041Z"
 }
