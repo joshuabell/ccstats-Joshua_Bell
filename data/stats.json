@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 32378.654688000028,
-    "totalTokens": 55317343004,
-    "averageCost": 122.18360259622652,
-    "averageTokens": 208744690.58113208,
-    "dayCount": 265
+    "totalCost": 33141.71801735003,
+    "totalTokens": 56226701717,
+    "averageCost": 122.29416242564587,
+    "averageTokens": 207478604.12177122,
+    "dayCount": 271
   },
   "yearly": {
-    "totalCost": 24772.071499000016,
-    "totalTokens": 43593238607,
-    "averageCost": 231.5146869065422,
-    "averageTokens": 407413444.92523366,
-    "dayCount": 107
+    "totalCost": 25535.134828350016,
+    "totalTokens": 44502597320,
+    "averageCost": 225.97464449867272,
+    "averageTokens": 393828294.86725664,
+    "dayCount": 113
   },
   "monthly": {
-    "totalCost": 12064.948602899998,
-    "totalTokens": 20723927009,
-    "averageCost": 430.8910215321428,
-    "averageTokens": 740140250.3214285,
-    "dayCount": 28
+    "totalCost": 447.33349854999966,
+    "totalTokens": 540526888,
+    "averageCost": 111.83337463749992,
+    "averageTokens": 135131722,
+    "dayCount": 4
   },
   "weekly": {
-    "totalCost": 297.0578780000001,
-    "totalTokens": 371056543,
-    "averageCost": 99.01929266666669,
-    "averageTokens": 123685514.33333333,
-    "dayCount": 3
+    "totalCost": 447.33349854999966,
+    "totalTokens": 540526888,
+    "averageCost": 111.83337463749992,
+    "averageTokens": 135131722,
+    "dayCount": 4
   },
   "daily": {
-    "totalCost": 116.51125426428572,
-    "totalTokens": 143098339.57142857
+    "totalCost": 120.66977397857143,
+    "totalTokens": 145265994.42857143
   },
   "highest": {
     "day": {
@@ -42,13 +42,13 @@
       "totalTokens": 23236498638
     },
     "month": {
-      "totalCost": 12064.948602899998,
-      "totalTokens": 20723927009
+      "totalCost": 12380.6784337,
+      "totalTokens": 21092758834
     }
   },
   "streaks": {
-    "currentStreak": 46,
-    "longestStreak": 46
+    "currentStreak": 4,
+    "longestStreak": 48
   },
-  "lastUpdated": "2026-04-29T21:31:57.289Z"
+  "lastUpdated": "2026-05-08T00:21:52.269Z"
 }
