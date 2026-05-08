@@ -5,7 +5,7 @@
   "scripts": {
     "setup": "node setup.js",
     "stats": "node stats.js",
-    "push": "git add data/stats.json data/days.json data/machines/ && git commit -m 'Update usage stats' && git pull --rebase && git push",
+    "push": "git add data/stats.json data/days.json data/machines/ && (git diff --cached --quiet || git commit -m 'Update usage stats') && git pull --rebase && git push",
     "lint": "npx @biomejs/biome check .",
     "test": "node --test 'test/**/*.test.js'"
   },
