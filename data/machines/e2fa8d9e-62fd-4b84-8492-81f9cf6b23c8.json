@@ -1,7 +1,7 @@
 {
   "machineId": "e2fa8d9e-62fd-4b84-8492-81f9cf6b23c8",
   "machineName": "machine-1",
-  "lastUpdated": "2026-05-08T00:24:21.038Z",
+  "lastUpdated": "2026-05-08T00:34:28.595Z",
   "days": [
     {
       "date": "2025-06-06",
@@ -2141,11 +2141,11 @@
     },
     {
       "date": "2026-05-07",
-      "totalCost": 182.09919574999992,
-      "totalTokens": 236015543,
-      "inputTokens": 86891,
-      "outputTokens": 1310727,
-      "cacheTokens": 8943589
+      "totalCost": 183.98589574999994,
+      "totalTokens": 238532674,
+      "inputTokens": 88187,
+      "outputTokens": 1336307,
+      "cacheTokens": 9083319
     }
   ]
 }
