@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 34310.617781300025,
-    "totalTokens": 57710963681,
-    "averageCost": 125.6799186128206,
-    "averageTokens": 211395471.35897437,
-    "dayCount": 273
+    "totalCost": 34311.27442510002,
+    "totalTokens": 57711695651,
+    "averageCost": 125.2236292886862,
+    "averageTokens": 210626626.46350366,
+    "dayCount": 274
   },
   "yearly": {
-    "totalCost": 26704.034592300017,
-    "totalTokens": 45986859284,
-    "averageCost": 232.20899645478275,
-    "averageTokens": 399885732.90434784,
-    "dayCount": 115
+    "totalCost": 26815.68056110002,
+    "totalTokens": 46233105591,
+    "averageCost": 229.19385094957283,
+    "averageTokens": 395154748.64102566,
+    "dayCount": 117
   },
   "monthly": {
-    "totalCost": 1259.729334849999,
-    "totalTokens": 1593866508,
-    "averageCost": 209.9548891416665,
-    "averageTokens": 265644418,
-    "dayCount": 6
+    "totalCost": 1434.5779770499992,
+    "totalTokens": 1793248448,
+    "averageCost": 179.3222471312499,
+    "averageTokens": 224156056,
+    "dayCount": 8
   },
   "weekly": {
-    "totalCost": 1126.4380892999993,
-    "totalTokens": 1449022367,
-    "averageCost": 281.60952232499983,
-    "averageTokens": 362255591.75,
-    "dayCount": 4
+    "totalCost": 1248.7372277499992,
+    "totalTokens": 1587408923,
+    "averageCost": 208.12287129166654,
+    "averageTokens": 264568153.83333334,
+    "dayCount": 6
   },
   "daily": {
-    "totalCost": 204.84590474999987,
-    "totalTokens": 256073782.57142857
+    "totalCost": 180.05513980714272,
+    "totalTokens": 227799782.57142857
   },
   "highest": {
     "day": {
@@ -38,17 +38,17 @@
       "date": "2026-04-02"
     },
     "week": {
-      "totalCost": 11919.665605950007,
-      "totalTokens": 23236498638
+      "totalCost": 13428.308979300005,
+      "totalTokens": 26337039526
     },
     "month": {
-      "totalCost": 12737.182361349998,
-      "totalTokens": 21523681178
+      "totalCost": 14791.383084500001,
+      "totalTokens": 25688939377
     }
   },
   "streaks": {
-    "currentStreak": 54,
-    "longestStreak": 54
+    "currentStreak": 55,
+    "longestStreak": 55
   },
-  "lastUpdated": "2026-05-08T00:34:28.596Z"
+  "lastUpdated": "2026-05-08T00:41:03.162Z"
 }

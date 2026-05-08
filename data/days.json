@@ -2177,10 +2177,18 @@
   },
   {
     "date": "2026-05-07",
-    "totalCost": 323.19165975000004,
-    "totalTokens": 422807779,
-    "inputTokens": 147484,
-    "outputTokens": 2266502,
-    "cacheTokens": 15485609
+    "totalCost": 323.28751215000005,
+    "totalTokens": 422921253,
+    "inputTokens": 147511,
+    "outputTokens": 2267208,
+    "cacheTokens": 15504187
+  },
+  {
+    "date": "2026-05-08",
+    "totalCost": 0.5607914,
+    "totalTokens": 618496,
+    "inputTokens": 57,
+    "outputTokens": 9963,
+    "cacheTokens": 37012
   }
 ]
